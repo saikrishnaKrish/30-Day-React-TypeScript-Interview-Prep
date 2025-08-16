@@ -84,30 +84,24 @@ This repo is designed for **frontend engineers** who want to **crack interviews*
 1. **Clone the repo**
    ```bash
    git clone https://github.com/your-username/react-ts-interview-prep-projects.git
-   cd react-ts-interview-prep-projects
+   cd react-ts-interview-prep-projects ```
 2. **Install dependencies**
-  ```npm install
+  ```npm install ```
 
 3. **Run the dev server**
-  ```npm start
+  ```npm start ```
 
-4.** Open http://localhost:3000 in your browser 🎉**
+4. ** Open http://localhost:3000 in your browser 🎉**
 
 
 📚 Interview Topics Covered
 
 React + TypeScript Fundamentals
-
 Hooks & Reusability
-
 State Management (Redux, Zustand, Context API)
-
 Complex Forms
-
 Performance Optimizations
-
 DSA + Algorithms in UI (Pathfinding, Sorting, Trie, etc.)
-
 System Design Thinking for UI
 
 🤝 Contributing
@@ -115,11 +109,8 @@ System Design Thinking for UI
 Contributions are welcome! 🚀
 
 Fork the repo
-
 Create a feature branch (git checkout -b feature-name)
-
 Commit changes (git commit -m "Added new project")
-
 Push and open a Pull Request 🎉
 
 📜 License
