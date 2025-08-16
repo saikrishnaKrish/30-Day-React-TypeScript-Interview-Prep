@@ -1,7 +1,7 @@
 # 🚀 30-Day React + TypeScript Interview Prep Roadmap  
 
-![GitHub stars](https://img.shields.io/github/stars/your-username/react-ts-interview-prep-projects?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/your-username/react-ts-interview-prep-projects?style=social)  
+![GitHub stars](https://img.shields.io/github/stars/saikrishnaKrish/30-Day-React-TypeScript-Interview-Prep?style=social)  
+![GitHub forks](https://img.shields.io/github/forks/saikrishnaKrish/30-Day-React-TypeScript-Interview-Prep?style=social)  
 ![License](https://img.shields.io/badge/license-MIT-green)  
 ![React](https://img.shields.io/badge/React-18-blue?logo=react)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)  
