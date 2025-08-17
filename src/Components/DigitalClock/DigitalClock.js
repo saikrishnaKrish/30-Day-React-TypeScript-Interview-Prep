@@ -5,7 +5,12 @@ const DigitalClock = () => {
     const [time, setTime] = useState("");
     const [timeFormat, setTFormat] = useState(false);
     const [clock, setClock] = useState(true);
-    const days = ["sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"];
+const days = ["sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"];
+const DigitalClock = () => {
+
+    const [time, setTime] = useState("");
+    const [timeFormat, setTFormat] = useState(false);
+    const [clock, setClock] = useState(true);
 
 
     const updateClock = () => {
