@@ -9,7 +9,7 @@ const DigitalClock = () => {
 
 
     const updateClock = () => {
-        let t = (new Date());
+        let t = new Date();
         const hh = t.getHours();
         const mm = t.getMinutes().toString().padStart(2, '0');
         const ss = t.getSeconds().toString().padStart(2, '0');
