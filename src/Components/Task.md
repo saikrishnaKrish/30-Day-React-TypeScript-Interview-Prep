@@ -56,5 +56,3 @@ Build a **Counter App** using **React (with or without TypeScript)** that fulfil
 ---
 
 👉 This task looks **simple on the surface (just a counter app)**, but the **prime-step logic + undo + bounds** makes it tricky enough to test problem-solving and clean coding skills.
-
-Do you want me to also **prepare a sample solution (hidden)** so you can quickly validate candidate answers during interview?
